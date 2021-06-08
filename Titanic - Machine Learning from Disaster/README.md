@@ -1,4 +1,8 @@
 
+# Titanic Survival - EDA ..
+
+![titanic](https://user-images.githubusercontent.com/52499914/121130136-930ae800-c84b-11eb-9764-f9206aed27c5.jpg)
+
 ## Problem Statement
 Use machine learning to create a model that predicts which passengers survived the Titanic shipwreck or not.
 
